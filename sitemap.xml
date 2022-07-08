@@ -46,13 +46,6 @@
     </url>
 
     <url>
-        <loc>https://hydroworxwash.com/service-Deck-and-Patio-and-Fence-Washing</loc>
-        <lastmod>2022-07-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://hydroworxwash.com/service-Home-Softwash</loc>
         <lastmod>2022-07-07</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,6 +54,13 @@
 
     <url>
         <loc>https://hydroworxwash.com/service-Roof-Soft-Wash</loc>
+        <lastmod>2022-07-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydroworxwash.com/service-Deck-and-Patio-and-Fence-Washing</loc>
         <lastmod>2022-07-07</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
